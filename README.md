@@ -6,7 +6,7 @@ Studying QA att EC-Utbildning
 
 I began my journey by studying Java and Cloud Development, and I am currently expanding my expertise in QA to build a comprehensive understanding of software development and testing.
 
-* 🌍  I'm based in Sverige
+* 🌍  I'm based in Sweden 
 * ✉️  You can contact me at [li.ristevska@gmail.com](mailto:li.ristevska@gmail.com)
 * 🧠  I'm currently learning QA
 * 💬  Ask me about I like to play chess
